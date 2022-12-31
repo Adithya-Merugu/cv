@@ -1,0 +1,106 @@
+/* using tag selectors*/
+body{
+    background-color: #3C6255;
+}
+hr {
+    border: none;
+    border-top: 5px dotted white;
+    color: white;
+    
+    height: 5px;
+    width: 50%;
+  }
+.mypic{
+    
+    border-radius: 50%;
+      
+}
+#c1{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    width: 20%;
+
+}
+#c2{
+    position: relative;
+    
+    left: 650px;
+    width: 20%;
+
+}
+#mountain{
+    position: relative;
+    width: 400px
+    
+}
+.cmc{
+    background-color: #CBEDD5;
+}
+.me{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.me1{
+    position: relative;
+    left: 5px;
+    font-style: italic;
+}
+.adi{
+    width: 20%;
+}
+.m2{
+    position: relative;
+    left: 8%;
+    font-size:x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.adi{
+    position:relative;
+    left:3.5%;
+}
+.edit{
+
+    right: 250px;
+    top: 75px;
+}
+.p{
+    font-size: larger;
+    position: relative;
+    left: 30%;
+    bottom: 180px;;
+
+}
+.p2{
+    padding: 20px;
+    background-color:#62B6B7;
+    max-width:150%;
+}
+.b3{
+    padding: 1%;
+    background-color: #97DECE;
+}
+.l{
+    font-style: italic;
+}
+.canva:hover{
+    color: #3C6255;
+}
+.skills{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.rating{
+    font-size:medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.box2{
+    background-color: #A6BB8D;
+    padding: 2.5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+
+
+
